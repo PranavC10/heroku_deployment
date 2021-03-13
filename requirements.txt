@@ -1,6 +1,6 @@
 
-flask=1.1.2=pypi_0
-numpy=1.20.0=pypi_0
+flask=1.1.2
+numpy=1.20.0
 pickle-mixin=1.0.2
 sklearn
 

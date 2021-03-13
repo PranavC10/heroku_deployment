@@ -8,7 +8,7 @@ MarkupSafe==1.1.1
 numpy
 pickle-mixin==1.0.2
 scikit-learn==0.24.1
-scipy==1.6.1
+scipy
 sklearn==0.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1

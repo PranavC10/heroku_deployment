@@ -1,7 +1,3 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-
 click=7.1.2=pypi_0
 flask=1.1.2=pypi_0
 itsdangerous=1.1.0=pypi_0

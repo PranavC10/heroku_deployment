@@ -5,9 +5,9 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 joblib==1.0.1
 MarkupSafe==1.1.1
-numpy==1.19.5
+numpy==1.20.0
 pickle-mixin==1.0.2
-scikit-learn==1.5.4
+scikit-learn==0.24.1
 scipy==1.6.1
 sklearn==0.0
 threadpoolctl==2.1.0

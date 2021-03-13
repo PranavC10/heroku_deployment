@@ -1,4 +1,4 @@
-click=7.1.2=pypi_0
+click=7.1.2
 flask=1.1.2=pypi_0
 itsdangerous=1.1.0=pypi_0
 jinja2=2.11.3=pypi_0
